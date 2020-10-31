@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+assets/
+*.css
+.pytest_cache/
+*.log
